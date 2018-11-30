@@ -1,1 +1,1 @@
-history | grep "echo 'Hello World'" | grep -v grep && echo "done"
+grep "echo 'Hello World'" ~/.bash_history | grep -v grep && echo "done"
