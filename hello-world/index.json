@@ -13,7 +13,8 @@
     "intro": {
       "text": "intro.md",
       "credits": "",
-      "courseData": "step1-data.sh"
+      "courseData": "step1-data.sh",
+      "code": "step1-data.sh"
     },
     "finish": {
       "text": "finish.md"
