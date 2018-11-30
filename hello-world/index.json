@@ -7,13 +7,11 @@
     "steps": [{
       "title": "Step 1 - Run Command",
       "text": "step1.md",
-      "verify": "step1-verify.sh",
-      "courseData": "step1-data.sh"
+      "verify": "step1-verify.sh"
     }],
     "intro": {
       "text": "intro.md",
       "credits": "",
-      "courseData": "step1-data.sh",
       "code": "step1-data.sh"
     },
     "finish": {
