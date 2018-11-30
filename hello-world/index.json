@@ -12,7 +12,8 @@
     }],
     "intro": {
       "text": "intro.md",
-      "credits": ""
+      "credits": "",
+      "courseData": "step1-data.sh"
     },
     "finish": {
       "text": "finish.md"
