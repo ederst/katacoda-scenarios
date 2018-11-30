@@ -1,0 +1,1 @@
+history | grep "echo 'Hello World'" | grep -v grep && echo "done"
