@@ -1,5 +1,11 @@
 {
   "title": "Git 101",
   "description": "Helping my Streammates with Git",
-  "courses": []
+  "courses": [
+    {
+      "course_id": "git-101-getting-started",
+      "title": "Getting started with Git",
+      "description": "Getting started with Git"
+    }
+  ]
 }
