@@ -19,11 +19,11 @@ Hello mum! I'm using Git!
 ```bash
 mkdir git-101-course
 cd git-101-course
-cat <<EOF
+cat << EOF > README.md
 # Git 101 Course
 
 Hello mum! I'm using Git!
-EOF > README.md
+EOF
 ```{{execute}}
 
 ## Commit the changes
