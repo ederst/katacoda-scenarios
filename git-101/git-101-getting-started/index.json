@@ -1,16 +1,16 @@
 {
   "title": "Getting started with Git",
-  "description": "Getting started with Git",
+  "description": "Learn some super simple basics of Git",
   "difficulty": "Beginner",
   "time": "15 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1 - Create your Repository",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Step 2 - Share your Repository",
         "text": "step2.md"
       },
       {
@@ -19,7 +19,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "credits": "Stefan Prietl"
     },
     "finish": {
       "text": "finish.md"
